@@ -11,11 +11,11 @@ $ npm install @ionic-native/barcode-scanner
 
 ## [Usage Documentation](https://ionicframework.com/docs/native/barcode-scanner/)
 
-Plugin Repo: [https://github.com/phonegap/phonegap-plugin-barcodescanner](https://github.com/phonegap/phonegap-plugin-barcodescanner)
+Plugin Repo: [https://github.com/StarleyDev/barcodescanner-sdk31](https://github.com/StarleyDev/barcodescanner-sdk31)
 
 The Barcode Scanner Plugin opens a camera view and automatically scans a barcode, returning the data back to you.
 
-Requires Cordova plugin: `phonegap-plugin-barcodescanner`. For more info, please see the [BarcodeScanner plugin docs](https://github.com/phonegap/phonegap-plugin-barcodescanner).
+Requires Cordova plugin: `phonegap-plugin-barcodescanner`. For more info, please see the [BarcodeScanner plugin docs](https://github.com/StarleyDev/barcodescanner-sdk31).
 
 ## Supported platforms
 
@@ -24,6 +24,3 @@ Requires Cordova plugin: `phonegap-plugin-barcodescanner`. For more info, please
   - Browser
   - iOS
   - Windows
-  
-
-

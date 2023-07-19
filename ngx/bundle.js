@@ -23,7 +23,7 @@ var BarcodeScanner = /** @class */ (function (_super) {
     BarcodeScanner.pluginName = "BarcodeScanner";
     BarcodeScanner.plugin = "phonegap-plugin-barcodescanner";
     BarcodeScanner.pluginRef = "cordova.plugins.barcodeScanner";
-    BarcodeScanner.repo = "https://github.com/phonegap/phonegap-plugin-barcodescanner";
+    BarcodeScanner.repo = "https://github.com/StarleyDev/barcodescanner-sdk31";
     BarcodeScanner.platforms = ["Android", "BlackBerry 10", "Browser", "iOS", "Windows"];
     BarcodeScanner.decorators = [
         { type: core$1.Injectable }

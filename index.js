@@ -29,7 +29,7 @@ var BarcodeScannerOriginal = /** @class */ (function (_super) {
     BarcodeScannerOriginal.pluginName = "BarcodeScanner";
     BarcodeScannerOriginal.plugin = "phonegap-plugin-barcodescanner";
     BarcodeScannerOriginal.pluginRef = "cordova.plugins.barcodeScanner";
-    BarcodeScannerOriginal.repo = "https://github.com/phonegap/phonegap-plugin-barcodescanner";
+    BarcodeScannerOriginal.repo = "https://github.com/StarleyDev/barcodescanner-sdk31";
     BarcodeScannerOriginal.platforms = ["Android", "BlackBerry 10", "Browser", "iOS", "Windows"];
     return BarcodeScannerOriginal;
 }(IonicNativePlugin));
